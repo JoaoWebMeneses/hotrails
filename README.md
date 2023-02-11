@@ -7,3 +7,7 @@
 ## entrar no projeto
 
 ``` cd hotrails ```
+
+## criar o banco de dados
+
+``` rails db:prepare ```
