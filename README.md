@@ -6,4 +6,4 @@
 
 ## entrar no projeto
 
-``` cd hootrails ```
+``` cd hotrails ```
