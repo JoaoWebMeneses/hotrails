@@ -11,6 +11,10 @@
   </head>
 
   <body>
+    <nav class="navbar bg-primary" data-bs-theme="dark">
+      <%= link_to "home", root_path,class: "btn btn-secondary"%>
+      <%= link_to "posts", posts_path,class: "btn btn-dark"%>
+    </nav>
     <%= yield %>
   </body>
 </html>
